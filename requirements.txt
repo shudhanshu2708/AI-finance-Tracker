@@ -1,0 +1,8 @@
+FastAPI	REST API framework
+SQLAlchemy	ORM for database operations
+SQLite	Lightweight local database
+Pandas	Data analysis & ML prediction
+React	UI framework
+Recharts	Interactive charts & visualizations
+Axios	API communication
+Vite	Frontend build tool
