@@ -136,7 +136,7 @@ Frontend runs at → `http://localhost:5173`
 
 **Sudhanshu Singh**  
 [![GitHub](https://img.shields.io/badge/GitHub-shudhanshu2708-black?logo=github)](https://github.com/shudhanshu2708)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhanshu%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/sudhanshu-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhanshu%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/sudhanshu~singh)
 
 ---
 
